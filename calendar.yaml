@@ -1,21 +1,21 @@
 title : Semester 3
 weeks :
-  - 2024-05-20 :
+  - 2026-05-11 :
       title : 0
       type  : Module Overview
-  - 2024-05-20 :
+  - 2026-05-18 :
       title : 1
       type  : Introdution
-  - 2024-05-27 :
+  - 2026-05-25 :
       title : 2
       type  : React Component Model
-  - 2024-06-03 :
+  - 2026-06-01 :
       title : 3
       type  : Navigation & App Design 
-  - 2024-06-10 :
+  - 2026-06-08 :
         title : 4
         type  : Design & Routing
-  - 2024-06-17 :
+  - 2026-06-15 :
         title : 5
         type  : Caching and Assignment
 
